@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumoWins
-- 👀 I’m interested in becoming a fullstack developer.
-- 🌱 I’m currently learning fullstack develop path on codeacademy pro.
+- 👀 I’m interested in becoming a data analyst.
+- 🌱 I’m currently learning data from edx, coursera, yt.
 - 💞️ I’m looking to collaborate on improving my skill sets with...
 - 📫 How to reach me - will be updated later with my social media links
 
